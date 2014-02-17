@@ -92,3 +92,23 @@ my $filesize = -s $filepath;
 						or die "Could not load data into database.\n";
 					$dbh -> do ("INSERT INTO Genomes (ID, GeneID, OrganismName) 
 						VALUES (1, '$GeneID', 'E.coli')")
+						or die "Could not load data into database.\n";
+				}
+				elsif ($GeneID =~ /trach/){
+					$dbh -> do ("INSERT INTO Genes (ID, GenomeID, CommonName, GeneSymbol, fmin, fmax, strand) 
+						VALUES ('$GeneID', 2, '$CommonName', '$GeneSymbol', $fmin, $fmax, $strand)" )
+						or die "Could not load data into database.\n";
+					$dbh -> do ("INSERT INTO Genomes (ID, GeneID, OrganismName) 
+						VALUES (2, '$GeneID', 'C. trachomatis')")
+						or die "Could not load data into database.\n";
+				}
+			}
+	}
+ 
+close FILE		#these lines close the file handle
+	or die "Closing file handle failed!\n"; 
+}
+##End of second subroutine
+__END__
+ 
+Note that I have checked for success at every appropriate step in the script
