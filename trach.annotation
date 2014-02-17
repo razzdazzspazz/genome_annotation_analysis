@@ -1,0 +1,967 @@
+internal locus	common_name	gene_symbol	ec_number	fmin	fmax	strand	TIGR_roles
+trach_1	conserved hypothetical protein			-3	1176	1	156
+trach_2	conserved hypothetical protein			1320	1593	-1	156
+trach_3	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit	gatC	6.3.5.-	1793	2096	1	137
+trach_4	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit	gatA	6.3.5.-	2107	3583	1	137
+trach_5	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit	gatB	6.3.5.-	3584	5051	1	137
+trach_6	conserved hypothetical protein			5149	6241	-1	
+trach_7	conserved hypothetical protein			6368	6938	-1	
+trach_8	conserved hypothetical protein			7092	7233	1	156
+trach_9	conserved hypothetical protein			7250	8201	1	156
+trach_10	ribonuclease HIII	rnhC	3.1.26.4	8216	9119	-1	132
+trach_11	hypothetical protein			9095	9212	1	856
+trach_12	bacterial lipid A biosynthesis acyltransferase family protein			9790	11158	-1	703
+trach_13	helix-turn-helix domain protein			9372	9804	1	157
+trach_14	putative exported protein			11289	12546	-1	141
+trach_15	disA bacterial checkpoint controller nucleotide-binding family protein			12542	13235	-1	185
+trach_16	bacterial Cytochrome Ubiquinol Oxidase family protein			13611	14952	1	112
+trach_17	cytochrome d ubiquinol oxidase, subunit II	cydB	1.10.3.-	14963	16025	1	112
+trach_18	AAA domain protein			16122	17427	-1	157
+trach_19	conserved hypothetical protein			17635	18364	1	141
+trach_20	bacterial SH3 domain protein			18528	19851	1	157
+trach_21	conserved hypothetical protein			19912	20386	-1	156
+trach_22	conserved hypothetical protein			20371	20530	1	156
+trach_23	hypothetical protein			21044	21179	-1	856
+trach_24	isoleucine--tRNA ligase	ileS	6.1.1.5	21431	24542	1	137
+trach_25	signal peptidase I	lepB	3.4.21.89	24600	26472	-1	97
+trach_26	putative exported protein			26672	27416	-1	141
+trach_27	ribosomal protein L31	rpmE		27491	27818	1	158
+trach_28	peptide chain release factor 1	prfA		28005	29085	1	169
+trach_29	protein-(glutamine-N5) methyltransferase, release factor-specific	prmC	2.1.1.-	29068	29941	1	703
+trach_30	signal recognition particle protein	ffh		29937	31284	1	97
+trach_31	ribosomal protein S16	rpsP		31274	31625	1	158
+trach_32	tRNA (guanine(37)-N(1))-methyltransferase	trmD		31640	32699	1	168
+trach_33	ribosomal protein L19	rplS		32724	33090	1	158
+trach_34	ribonuclease HII family protein			33153	33807	1	134
+trach_35	guanylate kinase	gmk	2.7.4.8	33797	34415	1	124
+trach_36	conserved hypothetical protein			34407	34710	1	156
+trach_37	hypothetical protein			36338	36455	-1	856
+trach_38	methionine--tRNA ligase	metG	6.1.1.10	34709	36362	1	137
+trach_39	viral (Super1) RNA helicase family protein			36501	38742	-1	185
+trach_40	eamA-like transporter family protein			38989	40015	-1	141
+trach_41	conserved hypothetical protein			41091	42303	-1	
+trach_42	biotin-ligase, N terminal family protein			40353	41127	1	185
+trach_43	conserved hypothetical protein			42446	42560	1	156
+trach_45	conserved hypothetical protein			42864	43209	-1	156
+trach_46	deoxycytidine triphosphate deaminase	dcd	3.5.4.13	43230	43803	-1	123
+trach_47	conserved hypothetical protein			43896	44043	1	156
+trach_48	holliday junction DNA helicase RuvB	ruvB	3.6.4.12	44084	45089	1	132
+trach_49	stage II sporulation family protein			45090	45903	1	185
+trach_50	isoamylase 3, chloroplastic	ISA3	3.2.1.68	45964	47965	-1	92,141,703
+trach_51	tir chaperone family protein			48082	48586	-1	95,97,187
+trach_52	single-stranded DNA-binding family protein	ssb		49051	49525	1	132
+trach_53	cytosol aminopeptidase family, catalytic domain protein			49865	51365	1	138
+trach_54	putative membrane protein			51448	51940	-1	88
+trach_55	histone H1-like nucleoHC2 family protein			51962	52115	1	185
+trach_56	conserved hypothetical protein			52269	53214	1	92,141,703
+trach_57	tetrapyrrole (Corrin/Porphyrin) Methylases family protein			53308	54022	1	703
+trach_58	conserved hypothetical protein			54112	55585	1	156
+trach_59	conserved hypothetical protein			55643	57254	-1	156
+trach_60	conserved hypothetical protein			57357	58920	-1	156
+trach_61	radical SAM superfamily protein			58973	60110	-1	703
+trach_62	conserved hypothetical protein			60099	60546	-1	156
+trach_63	conserved hypothetical protein			60598	60736	-1	156
+trach_64	oxoglutarate dehydrogenase (succinyl-transferring), E1 component	sucA	1.2.4.2	60877	63595	1	120
+trach_65	dihydrolipoyllysine-residue succinyltransferase, E2 component of oxoglutarate dehydrogenase (succinyl-transferring) complex	sucB	2.3.1.61	63598	64696	1	120
+trach_66	multi-copper polyphenol oxidoreductase laccase family protein			64724	65456	-1	703
+trach_67	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	ispG	1.17.7.1	65464	67273	-1	76
+trach_68	conserved hypothetical protein			67424	68111	-1	156
+trach_69	hypothetical protein			68085	68481	1	856
+trach_70	2Fe-2S iron-sulfur cluster binding domain protein			68607	68883	-1	112
+trach_72	hypothetical protein			69033	69282	-1	856
+trach_73	FHIPEP family protein			69271	70882	1	97
+trach_74	RNA polymerase sigma factor, FliA/WhiG family protein			70989	71751	1	135
+trach_75	tyrosine--tRNA ligase	tyrS	6.1.1.1	71909	73148	1	137
+trach_76	6-phosphogluconate dehydrogenase	gnd	1.1.1.44	73157	74600	1	117
+trach_77	GTP-binding protein LepA	lepA	3.6.5.-	74660	76469	-1	157
+trach_78	ADP,ATP carrier protein 2, chloroplastic	AATP2		76654	78241	-1	141
+trach_79	conserved hypothetical protein			78591	79068	-1	156
+trach_80	periplasmic solute binding family protein			79983	80706	1	185
+trach_81	ABC transporter family protein			80698	81478	1	141
+trach_82	fecCD transport family protein			81478	82834	1	145
+trach_83	ABC 3 transport family protein			82823	83780	1	141
+trach_84	1-deoxy-D-xylulose 5-phosphate reductoisomerase	dxr	1.1.1.267	83806	84946	1	76
+trach_85	RIP metalloprotease RseP	rseP	3.4.24.-	85141	87001	1	138
+trach_86	DNA replication and repair RecF family protein	recF		88082	89180	-1	132
+trach_87	DNA polymerase III, beta subunit	dnaN	2.7.7.7	89179	90280	-1	132
+trach_88	apbE family protein			90992	91847	-1	185
+trach_89	ssrA-binding protein	smpB		90559	91015	1	136
+trach_90	tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain protein			91912	92776	-1	78
+trach_91	rod shape-determining MreD family protein			92893	93337	-1	89
+trach_92	putative late transcription unit B protein			93613	93907	1	165
+trach_93	conserved hypothetical protein			94269	95952	1	156
+trach_94	conserved hypothetical protein			95948	96431	1	156
+trach_95	phospholipase D family protein			96444	97530	-1	177
+trach_96	menaquinone biosynthesis decarboxylase, SCO4490 family			97699	99439	-1	703
+trach_97	ribosomal protein L28	rpmB		99564	99834	-1	158
+trach_98	4-alpha-glucanotransferase	malQ	2.4.1.25	99982	101566	-1	105
+trach_99	tir chaperone family protein			101569	102010	-1	95,97,187
+trach_100	type III secretion regulator YopN/LcrE/InvE/MxiC			102047	103313	-1	97,187
+trach_101	type III secretion , HrcV family protein			103330	105343	-1	97,187
+trach_102	type III secretion , YscU/HrpY family protein			105456	106539	-1	97,187
+trach_103	hypothetical protein			106553	106706	-1	856
+trach_104	GTP-dependent nucleic acid-binding protein engD	engD		106801	107896	1	141
+trach_105	riboflavin biosynthesis protein RibF	ribF	2.7.1.26	107904	108801	-1	85
+trach_106	tRNA pseudouridine(55) synthase	truB	5.4.99.25	108766	109492	-1	168
+trach_107	ribosome-binding factor A	rbfA		109529	109901	-1	166
+trach_108	translation initiation factor IF-2	infB		109907	112553	-1	169
+trach_109	transcription termination factor NusA	nusA		112542	113847	-1	165
+trach_110	hypothetical protein			113839	113956	1	856
+trach_111	ribosomal protein S1	rpsA		113964	115674	-1	158
+trach_112	thioredoxin-disulfide reductase	trxB	1.8.1.9	116035	116974	1	112
+trach_113	holo-[acyl-carrier-protein] synthase	acpS	2.7.8.7	116979	117339	1	176
+trach_114	putative membrane protein			117339	117792	-1	88
+trach_115	flagellar biosynthesis , FliO family protein			117935	118397	1	91
+trach_116	enoyl-(Acyl carrier ) reductase family protein			119317	120211	-1	141
+trach_117	HAD hydrolase, IIB family protein			118431	119328	1	703
+trach_118	conserved hypothetical protein			120451	122422	1	156
+trach_119	RNA pseudouridylate synthase family protein			122534	123446	-1	168
+trach_120	A/G-specific adenine glycosylase	mutY	3.2.2.-	123492	124602	1	132
+trach_121	NIF3 family protein			124651	125407	1	185
+trach_122	conserved hypothetical protein			125419	126208	-1	156
+trach_123	chaperonin GroL	groL		126335	127970	-1	95
+trach_124	10 kDa chaperonin	groS		128007	128316	-1	92,141
+trach_125	oligoendopeptidase F	pepF	3.4.24.-	128487	130314	-1	138
+trach_126	conserved hypothetical protein			130324	130438	-1	156
+trach_127	hypothetical protein			130460	130583	1	856
+trach_128	istB-like ATP binding family protein			130616	133220	1	154
+trach_129	transglutaminase-like superfamily protein			133305	134706	1	185
+trach_130	putative incD			134935	135361	1	185
+trach_131	putative incE			135443	135842	1	185
+trach_132	hypothetical protein			136157	136283	-1	856
+trach_133	putative incF			135858	136161	1	185
+trach_134	inclusion membrane protein G	incG		136286	136751	1	187
+trach_135	incA family protein			136916	137738	-1	187
+trach_136	ribulose-phosphate 3-epimerase	rpe	5.1.3.1	138156	138843	1	117
+trach_137	elongation factor P (EF-P) OB domain protein			138829	139387	1	169
+trach_138	acetyl-CoA carboxylase, biotin carboxyl carrier protein	accB		139399	139894	1	176
+trach_139	acetyl-CoA carboxylase, biotin carboxylase subunit	accC	6.3.4.14	139897	141271	1	176
+trach_140	ribosomal protein L13	rplM		141493	141946	1	158
+trach_141	ribosomal S9/S16 family protein			141959	142361	1	158
+trach_142	nlpC/P60 family protein			142408	143260	-1	185
+trach_143	adenylate kinase family protein		2.7.4.-	143355	144093	-1	124
+trach_144	amino ABC transporter, permease , 3-TM region, His/Glu/Gln/Arg/opine family domain protein			144299	144944	1	142
+trach_145	ABC transporter family protein			144940	145642	1	141
+trach_146	putative transmembrane Protein			145644	149061	-1	88
+trach_147	virulence factor BrkB family protein			149057	150335	-1	185
+trach_148	methyltransferase domain protein			150412	151216	-1	703
+trach_149	conserved hypothetical protein			151670	152084	1	156
+trach_150	conserved hypothetical protein			152142	153225	1	156
+trach_151	phospholipase/Carboxylesterase family protein			153314	154034	1	703
+trach_152	telomere recombination family protein			154052	154898	1	185
+trach_153	bacterial extracellular solute-binding s, 5 Middle family protein			155819	157100	-1	141
+trach_154	membrane dipeptidase family protein			154875	155823	1	138
+trach_155	conserved hypothetical integral membrane family protein			157276	157963	1	156
+trach_156	SEC-C motif family protein			158146	158593	1	157
+trach_157	hypothetical protein			158715	158835	-1	856
+trach_160	conserved hypothetical protein			158992	159850	1	156
+trach_161	conserved hypothetical protein			159851	160694	1	156
+trach_162	conserved hypothetical protein			160693	161551	1	156
+trach_163	serine/threonine-protein kinase pkn1	pkn1	2.7.11.1	161736	163581	1	141,703
+trach_164	DNA ligase, NAD-dependent	ligA	6.5.1.2	163591	165583	1	132
+trach_165	putative integral membrane protein			165680	170030	1	88
+trach_166	FAD binding domain protein			170092	171616	-1	157
+trach_167	hypothetical protein			171615	171750	1	856
+trach_168	alpha/beta hydrolase family protein			171815	172763	-1	703
+trach_169	ftsX-like permease family protein			173355	174867	1	141
+trach_170	ABC transporter family protein			174873	175551	1	141
+trach_171	MAC/Perforin domain protein			175701	178134	-1	157
+trach_172	PLD-like domain protein			178319	179333	-1	157
+trach_173	phospholipase D family protein			179439	180381	-1	177
+trach_174	PLD-like domain protein			180737	181952	-1	157
+trach_175	polyphosphate kinase C-terminal domain protein			182075	182717	-1	703
+trach_176	conserved hypothetical protein			182734	183586	-1	156
+trach_177	conserved hypothetical protein			183812	184316	-1	156
+trach_178	conserved hypothetical protein			184312	185053	-1	156
+trach_179	putative membrane protein			185200	185389	-1	88
+trach_180	putative membrane protein			185672	187319	1	88
+trach_181	putative membrane protein			187371	187632	1	88
+trach_182	putative adherence factor			188105	188552	1	185
+trach_183	tcdB toxin N-terminal helical domain protein			188548	190468	1	157
+trach_184	conserved hypothetical protein			190523	191855	1	156
+trach_185	putative cytoadherence factor			191926	192223	1	185
+trach_186	trp operon repressor	trpR		192278	192563	1	70,261
+trach_187	hypothetical protein			192669	192783	1	856
+trach_188	tryptophan synthase, beta subunit	trpB	4.2.1.20	192911	194090	1	70
+trach_189	tryptophan synthase, alpha subunit	trpA	4.2.1.20	194082	194844	1	70
+trach_190	conserved hypothetical protein			195090	195582	-1	156
+trach_191	conserved hypothetical protein			195609	195780	-1	156
+trach_192	hypothetical protein			195847	196120	-1	856
+trach_193	conserved hypothetical protein			196206	196662	-1	156
+trach_194	bacterial extracellular solute-binding s, 5 Middle family protein			196856	198446	1	141
+trach_195	disulfide bond formation DsbB family protein			198472	198880	-1	95
+trach_196	thioredoxin family protein			198876	199575	-1	185
+trach_197	putative membrane protein			199738	200953	1	88
+trach_198	putative membrane protein			200954	201467	-1	88
+trach_199	ABC transporter family protein			201610	202303	-1	141
+trach_202	conserved hypothetical protein			202610	203321	-1	156
+trach_203	3-deoxy-D-manno-octulosonate cytidylyltransferase	kdsB	2.7.7.38	203688	204453	1	90
+trach_204	CTP synthase	pyrG	6.3.4.2	204428	206048	1	126
+trach_205	conserved hypothetical protein			206034	206481	1	156
+trach_206	glucose-6-phosphate dehydrogenase	zwf	1.1.1.49	206597	208121	1	117
+trach_207	DNA polymerase III, delta subunit			208912	209785	-1	132
+trach_208	6-phosphogluconolactonase	pgl	3.1.1.31	208145	208916	1	117
+trach_209	thymidylate kinase	tmk	2.7.4.9	209798	210410	-1	124
+trach_210	DNA gyrase, A subunit	gyrA	5.99.1.3	210411	212922	-1	132
+trach_211	DNA gyrase, B subunit	gyrB	5.99.1.3	212936	215351	-1	132
+trach_212	conserved hypothetical protein			215353	215704	-1	156
+trach_213	conserved hypothetical protein			215850	216546	-1	156
+trach_214	queuine tRNA-ribosyltransferase	tgt	2.4.2.29	216650	217769	-1	168
+trach_215	magnesium transporter	mgtE		217895	219308	-1	145
+trach_216	conserved hypothetical protein			219746	220838	-1	156
+trach_217	putative candidate inclusion membrane protein			221061	221382	1	88
+trach_218	putative tRNA threonylcarbamoyladenosine biosynthesis protein Gcp			221457	222474	1	92,189,703
+trach_219	bacterial extracellular solute-binding s, 5 Middle family protein			222437	223994	1	141
+trach_220	binding--dependent transport system inner membrane component family protein			224179	225094	1	141
+trach_221	binding--dependent transport system inner membrane component family protein			225125	225971	1	141
+trach_222	ABC transporter family protein			225963	226797	1	141
+trach_223	ABC transporter family protein			226811	227555	1	141
+trach_224	conserved hypothetical protein			227867	228617	1	156
+trach_225	2-oxoglutarate/malate translocator, chloroplastic	SODIT1		228646	230062	1	92,141
+trach_226	diphosphate--fructose-6-phosphate 1-phosphotransferase		2.7.1.90	230081	231743	1	116
+trach_227	phospholipase/Carboxylesterase family protein			231781	232600	1	703
+trach_228	diphosphate--fructose-6-phosphate 1-phosphotransferase		2.7.1.90	232674	234228	1	116
+trach_231	3-Deoxy-D-manno-octulosonic-acid transferase family protein			234473	235769	-1	90
+trach_232	leucine--tRNA ligase	leuS	6.1.1.4	235765	238225	-1	137
+trach_233	conserved hypothetical protein			239681	240251	-1	156
+trach_234	glutamate-1-semialdehyde-2,1-aminomutase	hemL	5.4.3.8	238421	239690	1	79
+trach_235	bifunctional nuclease family protein			240270	240717	-1	185
+trach_236	ribose 5-phosphate isomerase A	rpiA	5.3.1.6	240706	241435	-1	117
+trach_237	putative candidate inclusion membrane protein			241529	243173	-1	88
+trach_238	hypothetical protein			241423	241561	1	856
+trach_239	fructose-bisphosphate aldolase class 1	fbaB	4.1.2.13	243476	244523	1	92,703
+trach_240	amino acid permease family protein			244536	245937	1	142
+trach_241	PP-loop family protein			246030	246795	1	185
+trach_242	5'/3'-nucleotidase SurE	surE	3.1.3.5	246925	247777	1	149
+trach_243	ubiA prenyltransferase family protein			247888	248797	1	76
+trach_244	conserved hypothetical protein			249368	250265	-1	156
+trach_245	polyprenyl P-hydroxybenzoate and phenylacrylic acid decarboxylase family protein		4.1.1.-	248793	249372	1	703
+trach_248	LAGLI-DADG endonuclease domain protein			250553	250685	-1	703
+trach_249	putative lAGLI-DADG endonuclease			250720	251110	-1	703
+trach_250	incA family protein			251251	252064	-1	187
+trach_251	putative candidate inclusion membrane protein			252454	252898	-1	88
+trach_252	putative candidate inclusion membrane protein			252988	253357	-1	88
+trach_253	putative candidate inclusion membrane protein			253455	253851	-1	88
+trach_254	hypothetical protein			253899	254040	1	856
+trach_255	putative candidate inclusion membrane protein			254101	254503	-1	88
+trach_256	incA family protein			254773	255364	-1	187
+trach_257	putative candidate inclusion membrane protein			255513	256161	-1	88
+trach_258	sodium:dicarboxylate symporter family protein			256386	257634	1	144,145
+trach_259	sodium:neurotransmitter symporter family protein			257817	259290	1	185
+trach_260	putative membrane protein			259496	259742	1	88
+trach_261	putative inclusion membrane protein C			259818	260355	1	88
+trach_262	HEAT repeats family protein			260412	263199	1	185
+trach_263	cyclic nucleotide-binding domain protein			263227	263641	1	157
+trach_264	acyl carrier protein	acpP		263701	263935	-1	176
+trach_265	3-oxoacyl-[acyl-carrier-protein] reductase	fabG	1.1.1.100	264303	265050	-1	176
+trach_266	malonyl CoA-acyl carrier protein transacylase	fabD	2.3.1.39	265046	265973	-1	176
+trach_267	3-oxoacyl-[acyl-carrier-] synthase III family protein	fabH	2.3.1.180	265989	266985	-1	176
+trach_268	recombination protein RecR	recR		267110	267713	1	132
+trach_269	hypothetical protein			267786	267906	1	856
+trach_270	outer membrane assembly complex, YaeT protein	yaeT		268087	270466	1	97
+trach_271	outer membrane family protein			270534	271056	1	88
+trach_272	conserved hypothetical protein			272144	273215	-1	156
+trach_273	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase	lpxD	2.3.1.-	271083	272148	1	90
+trach_274	pyruvate dehydrogenase (acetyl-transferring) E1 component, alpha subunit	pdhA	1.2.4.1	273562	274585	1	118
+trach_275	transketolase, pyrimidine binding domain protein			274577	275564	1	157
+trach_276	pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase		2.3.1.12	275568	276858	1	118
+trach_277	glycogen phosphorylase, brain form	PYGB	2.4.1.1	276884	279329	-1	92,141,703
+trach_278	conserved hypothetical protein			279484	279835	1	156
+trach_279	archaeal ATPase family protein			279888	281259	-1	157
+trach_280	membrane insertase, YidC/Oxa1 family domain protein	yidC		281335	283699	-1	88
+trach_281	prolipoprotein diacylglyceryl transferase	lgt	2.4.99.-	284008	284827	-1	140
+trach_282	conserved hypothetical protein			285077	285725	1	156
+trach_283	CAAX protease self-immunity family protein			285860	286499	1	157
+trach_284	mazG nucleotide pyrophosphohydrolase domain protein			286706	287090	-1	703
+trach_285	transporter associated domain protein			287278	288523	1	141
+trach_286	transporter associated domain protein			288512	289727	1	141
+trach_287	aminotransferase class-V family protein			289730	290801	-1	703
+trach_288	phosphatase 2C family protein			290860	291607	-1	703
+trach_289	conserved hypothetical protein			291642	291765	1	156
+trach_290	bacterial sensory transduction regulator family protein			291929	292421	1	129
+trach_291	exonuclease family protein			292429	293128	1	703
+trach_292	menaquinone biosynthesis family protein			293124	293895	1	156
+trach_293	conserved hypothetical protein			293887	294478	1	92,703
+trach_294	ABC transporter family protein			294498	296439	-1	141
+trach_295	acetyl-CoA carboxylase, carboxyl transferase, alpha subunit	accA	6.4.1.2	296404	297379	-1	176
+trach_296	conserved hypothetical protein			297511	298693	-1	156
+trach_297	bacterial DNA-binding family protein			298810	299113	-1	170
+trach_298	N-acetylmuramoyl-L-alanine amidase family protein			299332	300052	-1	89
+trach_299	UDP-N-acetylmuramyl-tripeptide synthetase family protein	murE		300026	301478	-1	89
+trach_300	penicillin binding transpeptidase domain protein			301800	303744	-1	89
+trach_301	conserved hypothetical protein			303730	304018	-1	156
+trach_302	S-adenosyl-methyltransferase MraW	mraW	2.1.1.-	304017	304920	-1	89
+trach_303	conserved hypothetical protein			305197	305764	1	156
+trach_304	tetratricopeptide repeat family protein			305770	306190	1	157
+trach_305	chromosomal replication initiator protein DnaA	dnaA		306432	307800	1	132
+trach_306	conserved hypothetical protein			308394	309054	-1	156
+trach_307	polymer-forming cytoskeletal family protein			307838	308423	1	185
+trach_308	hypothetical protein			309108	309243	-1	856
+trach_309	ubiquinone oxidoreductase, Na(+)-translocating, B subunit	nqrB	1.6.5.-	309316	310567	1	145
+trach_310	ubiquinone oxidoreductase, Na(+)-translocating, C subunit	nqrC	1.6.5.-	310570	311521	1	145
+trach_311	ubiquinone oxidoreductase, Na(+)-translocating, D subunit	nqrD	1.6.5.-	311510	312152	1	145
+trach_312	ubiquinone oxidoreductase, Na(+)-translocating, E subunit	nqrE	1.6.5.-	312157	312892	1	145
+trach_313	glycine cleavage H-family protein			312915	313269	-1	185
+trach_314	conserved hypothetical protein			313288	315361	-1	156
+trach_315	hypothetical protein			315341	315482	1	856
+trach_316	phospholipase D family protein			315555	316974	-1	177
+trach_317	biotin/lipoate A/B ligase family protein			316985	317705	-1	140
+trach_318	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	trmU	2.1.1.61	320514	321591	-1	168
+trach_319	negative regulator of genetic competence ClpC/MecB	clpC		317969	320534	1	92,141,189,703
+trach_320	incA family protein			321822	323514	1	187
+trach_321	conserved hypothetical protein			323600	324740	-1	156
+trach_322	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2 family protein			324797	325475	-1	703
+trach_323	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2 family protein			325477	325954	-1	703
+trach_324	dUTP diphosphatase family protein	dut	3.6.1.23	325955	326393	-1	123
+trach_325	acetyl-CoA carboxylase, carboxyl transferase, beta subunit	accD	6.4.1.2	326429	327356	-1	176
+trach_326	superoxide dismutase [Mn] 1, mitochondrial	sod-2	1.15.1.1	327427	328048	-1	92,141,703
+trach_327	phosphoglucomutase/phosphomannomutase, C-terminal domain protein			328179	329961	-1	119
+trach_328	putative divalent cation-dependent regulator A			330112	330580	-1	129
+trach_329	hypothetical protein			331360	331501	-1	856
+trach_330	ribonuclease III	rnc	3.1.26.3	330688	331384	1	166
+trach_331	DNA repair protein RadA	radA		331547	332732	1	132
+trach_332	porphobilinogen deaminase, dipyromethane cofactor binding domain protein			332709	333435	1	79
+trach_333	serine/threonine-protein kinase pknD	pknD	2.7.11.1	334227	336990	-1	141,703
+trach_334	valine--tRNA ligase	valS	6.1.1.9	337046	339866	-1	137
+trach_335	conserved hypothetical protein			339992	340469	-1	156
+trach_336	ATP synthase subunit C family protein			340428	340854	-1	703
+trach_337	V-type ATPase 116kDa subunit			340916	342866	-1	703
+trach_338	ATP synthase subunit D family protein			342871	343423	-1	703
+trach_339	ATP synthase alpha/beta family, beta-barrel domain protein			343467	344733	-1	703
+trach_340	ATP synthase alpha/beta chain, C terminal domain protein			344786	346562	-1	111
+trach_341	conserved hypothetical protein			346555	347356	-1	156
+trach_342	hypothetical protein			347373	347529	-1	856
+trach_343	hrpE/YscL/FliH and V-type ATPase subunit E family protein			347522	348149	-1	97,187
+trach_344	conserved hypothetical protein			348257	348968	1	156
+trach_345	putative ferredoxin			348975	349347	-1	112
+trach_346	transaldolase	tal	2.2.1.2	349391	350375	-1	117
+trach_347	DNA-directed RNA polymerase, beta' subunit	rpoC	2.7.7.6	350486	354677	-1	135
+trach_348	DNA-directed RNA polymerase, beta subunit	rpoB	2.7.7.6	354701	358460	-1	135
+trach_349	ribosomal protein L7/L12	rplL		358820	359213	-1	158
+trach_350	ribosomal L10 family protein			359244	359763	-1	158
+trach_351	ribosomal protein L1	rplA		359784	360483	-1	158
+trach_352	ribosomal protein L11	rplK		360505	360931	-1	158
+trach_353	transcription termination/antitermination factor NusG	nusG		361036	361585	-1	165
+trach_354	preprotein translocase, SecE subunit	secE		361588	361837	-1	97
+trach_356	translation elongation factor Tu	tuf		361979	363164	-1	169
+trach_358	translation initiation factor IF-1	infA		363511	363733	-1	169
+trach_359	hypothetical protein			363806	363929	1	856
+trach_360	putative transmembrane protein			364144	365056	1	88
+trach_361	fe-S metabolism associated domain protein			365052	365499	1	76
+trach_362	conserved hypothetical protein			365550	367212	-1	156
+trach_363	conserved hypothetical protein			367228	367417	-1	156
+trach_364	hypothetical protein			367606	367789	-1	856
+trach_366	N-(5'phosphoribosyl)anthranilate (PRA) isomerase family protein			368508	369135	-1	70
+trach_367	triose-phosphate isomerase	tpiA	5.3.1.1	369430	370156	1	116
+trach_368	exodeoxyribonuclease VII, large subunit	xseA	3.1.11.6	370169	371720	1	131
+trach_369	exonuclease VII small subunit			371703	371922	1	131
+trach_370	conserved hypothetical protein			372021	372201	1	156
+trach_371	1-deoxy-D-xylulose-5-phosphate synthase	dxs	2.2.1.7	372197	374120	1	76,84,162
+trach_372	pyruvate kinase	pyk	2.7.1.40	374216	375674	1	116
+trach_373	excinuclease ABC subunit A	uvrA	3.1.25.-	375696	381057	1	132
+trach_374	DNA polymerase III, subunit gamma and tau	dnaX	2.7.7.7	381349	382675	1	132
+trach_375	DNA-binding protein, YbaB/EbfC family			382667	382958	1	156
+trach_376	phosphoenolpyruvate-protein phosphotransferase	ptsP	2.7.3.9	382967	384683	-1	703
+trach_377	phosphocarrier, HPr family protein			384682	385012	-1	700
+trach_378	conserved hypothetical protein			385148	385610	-1	156
+trach_379	putative cytoplasmic protein			385666	385921	-1	185
+trach_380	competence family protein			385893	387423	1	185
+trach_381	transketolase, pyrimidine binding domain protein			387495	389532	-1	157
+trach_382	chaperone protein DnaJ	dnaJ		389566	390745	-1	95
+trach_383	ribosomal protein S21	rpsU		390773	390950	-1	158
+trach_384	glycoprotease family protein			391146	391779	-1	138
+trach_385	hypothetical protein			391922	392039	-1	856
+trach_386	ATP-dependent protease La	lon	3.4.21.53	392088	394548	1	138
+trach_387	putative membrane protein			394649	395015	1	88
+trach_388	ribonuclease Z	rnz	3.1.26.11	395364	396279	1	166
+trach_389	tyrosine recombinase XerC	xerC		396340	397288	1	132
+trach_390	ABC transporter family protein			397341	398928	1	141
+trach_391	septum formation protein Maf	maf		398963	399554	1	93
+trach_392	HEAT repeats family protein			399535	401236	1	185
+trach_393	conserved hypothetical protein			401242	403336	1	156
+trach_394	preprotein translocase, SecG subunit	secG		403409	403718	-1	97
+trach_395	peptide deformylase	def	3.5.1.88	403873	404419	-1	140
+trach_396	dimethyladenosine transferase	ksgA	2.1.1.-	404693	405527	-1	168
+trach_397	conserved hypothetical protein			405542	406595	-1	92
+trach_398	hypothetical protein			406644	406803	1	856
+trach_399	conserved hypothetical protein			406908	409023	-1	156
+trach_401	hypothetical protein			409340	409595	-1	856
+trach_402	putative membrane protein			409593	409812	1	88
+trach_403	putative inner membrane protein			409837	410374	1	88
+trach_404	bioY family protein			410433	411024	-1	77
+trach_405	putative exported protein			411275	411803	-1	141
+trach_406	dihydrodipicolinate synthase	dapA	4.2.1.52	412063	412924	-1	71
+trach_407	aspartate kinase domain protein		2.7.2.4	412933	414229	-1	71
+trach_408	aspartate-semialdehyde dehydrogenase	asd	1.2.1.11	414221	415220	-1	71
+trach_409	dihydrodipicolinate reductase	dapB	1.3.1.26	415235	415997	-1	71
+trach_410	putative membrane protein			416173	417901	-1	88
+trach_411	3-phosphoshikimate 1-carboxyvinyltransferase	aroA	2.5.1.19	418070	419393	1	70
+trach_412	shikimate kinase domain protein	aroK	2.7.1.71	419745	419889	1	92,141,703
+trach_413	chorismate synthase	aroC	4.2.3.5	419881	420955	1	70
+trach_414	3-dehydroquinate synthase	aroB	4.2.3.4	420951	422073	1	70
+trach_415	shikimate 5-dehydrogenase	aroE	1.1.1.25	422053	423490	1	70
+trach_416	conserved hypothetical protein			423531	424317	1	156
+trach_417	porin AaxA	aaxA		424401	425787	1	141,187
+trach_418	pyruvoyl-dependent arginine decarboxylase AaxB	aaxB	4.1.1.19	425855	426443	1	92,187,703
+trach_419	arginine/agmatine antiporter	aaxC		426458	427910	1	141,187
+trach_420	FAD dependent oxidoreductase family protein			428081	429140	1	703
+trach_421	malate dehydrogenase	mdh	1.1.1.37	429181	430162	-1	92,141,703
+trach_422	phosphoglucose isomerase family protein			430607	432182	-1	117
+trach_423	hypothetical protein			432174	432294	-1	856
+trach_424	GTP-binding protein HflX	hflX		432297	433641	-1	157
+trach_425	metallo-beta-lactamase superfamily protein			433653	434454	-1	157
+trach_426	putative ABC transporter arginine-binding protein ArtJ			434482	435256	-1	141
+trach_427	phospho-2-dehydro-3-deoxyheptonate aldolase	aroF	2.5.1.54	435324	436161	-1	70
+trach_428	conserved hypothetical protein			436297	436447	-1	156
+trach_429	conserved hypothetical protein			436671	437403	1	156
+trach_430	HEAT repeats family protein			437413	439033	-1	185
+trach_431	HIT domain protein			439047	439383	-1	703
+trach_432	conserved hypothetical protein			439379	440249	-1	156
+trach_433	putative transporter			440535	442611	1	141
+trach_434	conserved hypothetical protein			442624	442927	-1	156
+trach_435	conserved hypothetical protein			443156	444380	1	156
+trach_436	LL-diaminopimelate aminotransferase		2.6.1.83	444487	445672	1	703
+trach_437	ABC transporter substrate binding family protein			445679	446687	1	141
+trach_438	conserved hypothetical protein			446692	447826	-1	156
+trach_439	proline--tRNA ligase	proS	6.1.1.15	448032	449772	1	137
+trach_440	heat-inducible transcription repressor HrcA	hrcA		449858	451019	1	261
+trach_441	grpE family protein			451015	451588	1	95
+trach_442	chaperone protein DnaK	dnaK		451613	453596	1	95
+trach_443	hypothetical protein			453567	453690	1	856
+trach_444	vacB and RNase II 3'-5' exoribonucleases family protein		3.1.13.1	453888	455973	1	134
+trach_445	putative zinc ribbon domain protein			456228	456993	1	157
+trach_446	sugar isomerase, KpsF/GutQ family protein			457415	458402	-1	119
+trach_447	e3 binding domain protein			458433	459600	-1	157
+trach_448	sodium:dicarboxylate symporter family protein			459845	461084	-1	144,145
+trach_449	tetraacyldisaccharide 4'-kinase	lpxK	2.7.1.130	461080	462190	-1	90
+trach_450	RNA 2'-O ribose methyltransferase substrate binding family protein			462355	463165	-1	168
+trach_451	conserved hypothetical 95 family protein			463152	463977	-1	185
+trach_452	riboflavin synthase, alpha subunit	ribE	2.5.1.9	463976	464576	-1	85
+trach_453	transcriptional regulator NrdR	nrdR		464968	465433	1	261
+trach_454	prokaryotic dksA/traR C4-type zinc finger family protein			465446	465821	1	261
+trach_455	signal peptidase II	lspA	3.4.23.36	465826	466330	1	97
+trach_456	amino acid carrier family protein	agcS		466497	467793	1	141
+trach_457	poly(A) polymerase family protein	pcnB	2.7.7.19	468007	469285	1	703
+trach_458	lipid-A-disaccharide synthase	lpxB	2.4.1.182	469345	471169	1	90
+trach_459	autotransporter beta-domain protein			471275	474203	1	97,187
+trach_460	autotransporter beta-domain protein			474341	479597	1	97,187
+trach_461	autotransporter beta-domain protein			479773	485086	1	97,187
+trach_463	periplasmic solute binding family protein			485638	486469	1	185
+trach_464	ABC transporter family protein			486465	487176	1	141
+trach_465	obg family GTPase CgtA	cgtA		487963	488971	-1	136
+trach_466	ribosomal protein L27	rpmA		489060	489312	-1	158
+trach_467	ribosomal protein L21	rplU		489342	489666	-1	158
+trach_469	conserved hypothetical protein			490269	490917	1	156
+trach_470	hypothetical protein			491005	491122	-1	856
+trach_471	conserved hypothetical protein			491089	491263	1	156
+trach_472	conserved hypothetical protein			491279	491441	1	156
+trach_473	conserved hypothetical protein			491453	491939	1	156
+trach_474	transporter associated domain protein			492071	493181	1	141
+trach_475	anti-anti-sigma factor family protein			493369	493720	1	263
+trach_476	conserved hypothetical protein			493897	495763	1	156
+trach_477	conserved hypothetical protein			495775	495991	1	156
+trach_478	radical SAM domain , CofH subfamily protein			495959	497069	1	156
+trach_479	menaquinone biosynthesis family protein			497041	497863	1	156
+trach_480	ubiquinone/menaquinone biosynthesis methyltransferase family protein		2.1.1.-	497834	498488	1	703
+trach_481	conserved hypothetical protein			498513	499503	-1	156
+trach_482	diaminopimelate epimerase	dapF	5.1.1.7	499563	500310	-1	71
+trach_483	ATP-dependent Clp protease proteolytic subunit 1	clpP1	3.4.21.92	500359	500938	-1	141,189,703
+trach_484	serine hydroxymethyltransferase	glyA	2.1.2.1	500949	502443	-1	92,141,703
+trach_485	uroporphyrinogen-III synthase HemD family protein			502806	503478	1	79
+trach_486	oxidoreductase NAD-binding domain protein			504113	505166	-1	703
+trach_487	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ispF	4.6.1.12	503580	504117	1	76
+trach_488	ribosomal protein S10	rpsJ		505182	505500	-1	158
+trach_489	translation elongation factor G	fusA		505507	507592	-1	169
+trach_490	ribosomal protein S7	rpsG		507633	508107	-1	158
+trach_491	ribosomal protein S12	rpsL		508156	508528	-1	158
+trach_492	conserved hypothetical protein			508787	509126	1	156
+trach_493	hypothetical protein			511212	511332	-1	856
+trach_494	C-terminal processing peptidase family protein		3.4.21.-	509283	511218	1	138,140
+trach_495	chlamydia 15 kDa cysteine-rich outer membrane family protein			511339	511792	-1	88
+trach_496	large cysteine-rich periplasmic protein omcB	omcB		511970	513614	-1	185
+trach_497	small cysteine-rich outer membrane protein omcA	omcA		513778	514045	-1	
+trach_498	glutamate--tRNA ligase	gltX	6.1.1.17	514602	516123	-1	137
+trach_499	putative lipoprotein			514381	514606	1	185
+trach_500	DNA binding , excisionase family domain protein			516394	516946	-1	157
+trach_501	single-stranded-DNA-specific exonuclease RecJ	recJ	3.1.-.-	517350	519105	-1	132
+trach_502	-export membrane protein SecD	secD		519222	523425	-1	97
+trach_503	putative membrane protein			523844	524177	-1	88
+trach_504	di-trans,poly-cis-decaprenylcistransferase	uppS	2.5.1.31	524639	525401	1	90
+trach_505	cytidylyltransferase family protein			525406	526324	1	176
+trach_506	cytidylate kinase	cmk	2.7.4.14	526320	526971	1	124
+trach_507	acyltransferase family protein			526967	527618	1	703
+trach_508	arginine--tRNA ligase	argS	6.1.1.19	527632	529324	1	137
+trach_509	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	murA	2.5.1.7	529361	530696	-1	89
+trach_510	conserved hypothetical protein			530907	533925	1	156
+trach_511	DNA-binding regulatory , YebC/PmpR family protein			533976	534693	-1	156
+trach_512	acetyltransferase family protein			534877	535381	-1	703
+trach_513	peptide chain release factor 2	prfB		535377	536367	-1	169
+trach_514	hypothetical protein			536413	536536	-1	856
+trach_515	SWIB/MDM2 domain protein			536804	537065	1	157
+trach_516	calcineurin-like phosphoesterase family protein			537122	538112	1	703
+trach_517	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	ispD	2.7.7.60	538101	538761	1	76
+trach_518	HAD hydrolase, IA, variant 3 family protein			539524	540199	-1	703
+trach_519	tRNA pseudouridine(38-40) synthase	truA	5.4.99.12	538769	539573	1	168
+trach_520	putative exported protein			540291	540933	1	141
+trach_522	conserved hypothetical protein			541226	541556	1	156
+trach_523	his Kinase A domain protein			541533	542592	1	699
+trach_524	transcriptional regulator	ntrC1		542634	543795	1	141,165,703
+trach_526	type I restriction enzyme R N terminus family protein			544021	544558	1	183
+trach_527	putative exported protein			545255	545837	-1	141
+trach_528	DNA repair protein RecO	recO		544527	545259	1	132
+trach_529	hypothetical protein			545916	546084	-1	856
+trach_531	conserved hypothetical protein			546082	546265	1	156
+trach_532	conserved hypothetical protein			546420	547116	1	156
+trach_533	putative lysM motif repeat domain			547374	548304	-1	157
+trach_534	phenylalanine--tRNA ligase, beta subunit	pheT	6.1.1.20	548391	550764	1	137
+trach_535	conserved hypothetical protein			550760	551726	1	92,703
+trach_536	binding--dependent transport system inner membrane component family protein			552253	553990	-1	141
+trach_537	6-O-methylguanine DNA methyltransferase, DNA binding domain protein			551744	552257	1	157
+trach_538	binding--dependent transport system inner membrane component family protein			553991	555470	-1	141
+trach_539	bacterial extracellular solute-binding s, 5 Middle family protein			555451	557542	-1	141
+trach_540	hypothetical protein			557792	557957	-1	856
+trach_541	polysaccharide deacetylase family protein			558149	558881	-1	105
+trach_542	conserved hypothetical protein			558865	559027	-1	156
+trach_543	putative exported protein			559042	559696	-1	141
+trach_544	conserved hypothetical protein			559932	560055	1	156
+trach_545	conserved hypothetical protein			560077	560278	1	156
+trach_546	tetratricopeptide repeat family protein			560507	561506	-1	157
+trach_547	conserved hypothetical protein			560340	560529	1	156
+trach_548	ferrochelatase	hemH	4.99.1.1	561662	562607	-1	79
+trach_549	bacterial extracellular solute-binding s, 3 family protein			562628	563378	-1	185
+trach_550	RNA methyltransferase, RsmD family		2.1.1.-	563459	564032	-1	703
+trach_551	calcineurin-like phosphoesterase family protein			564028	564763	-1	703
+trach_552	glucose-1-phosphate adenylyltransferase	glgC	2.7.7.27	564851	566177	-1	105
+trach_553	conserved hypothetical protein			566369	566621	1	156
+trach_554	transcription termination factor Rho	rho	3.6.4.-	566630	568025	-1	165
+trach_555	dephospho-CoA kinase	coaE	2.7.1.24	568021	568630	-1	83
+trach_556	DNA polymerase I family protein	polA	2.7.7.7	568623	571224	-1	132
+trach_557	clp protease family protein			571240	572236	-1	138
+trach_558	ADP/ATP carrier family protein			572374	573997	-1	146
+trach_559	CDP-alcohol phosphatidyltransferase family protein			574208	574715	-1	703
+trach_561	conserved hypothetical protein			574971	575118	-1	156
+trach_562	hypothetical protein			575110	575260	-1	856
+trach_563	replicative DNA helicase	dnaB	3.6.4.12	575228	576647	1	132
+trach_564	hypothetical protein			576653	576770	-1	856
+trach_565	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	gidA		576940	578773	1	168
+trach_566	biotin/lipoate A/B ligase family protein			578762	579464	1	140
+trach_567	nucleoside diphosphate kinase	ndk	2.7.4.6	579520	579946	-1	92,141,703
+trach_568	holliday junction DNA helicase RuvA	ruvA	3.6.4.12	580105	580708	-1	132
+trach_569	crossover junction endodeoxyribonuclease RuvC	ruvC	3.1.22.4	580727	581240	-1	132
+trach_570	conserved hypothetical protein			581347	581902	-1	156
+trach_572	conserved hypothetical protein			582188	583055	-1	156
+trach_573	glyceraldehyde-3-phosphate dehydrogenase, type I	gap	1.2.1.-	583065	584070	-1	116
+trach_574	ribosomal protein L17	rplQ		584113	584482	-1	158
+trach_575	DNA-directed RNA polymerase, alpha subunit	rpoA	2.7.7.6	584547	585681	-1	135
+trach_576	30S ribosomal protein S11	rpsK		585701	586100	-1	158
+trach_577	30S ribosomal protein S13	rpsM		586121	586490	-1	158
+trach_578	preprotein translocase, SecY subunit	secY		586545	587919	-1	97
+trach_579	ribosomal protein L15	rplO		587941	588376	-1	158
+trach_580	ribosomal protein S5	rpsE		588368	588866	-1	158
+trach_581	ribosomal protein L18	rplR		588880	589252	-1	158
+trach_582	ribosomal protein L6	rplF		589273	589825	-1	158
+trach_583	30S ribosomal protein S8	rpsH		589852	590254	-1	92,141
+trach_584	50S ribosomal protein L5	rplE		590271	590814	-1	92,141
+trach_585	ribosomal protein L24	rplX		590815	591151	-1	158
+trach_586	ribosomal protein L14	rplN		591163	591532	-1	158
+trach_587	30S ribosomal protein S17	rpsQ		591548	591800	-1	158
+trach_588	ribosomal protein L29	rpmC		591792	592011	-1	158
+trach_589	ribosomal protein L16	rplP		592012	592429	-1	158
+trach_590	ribosomal protein S3	rpsC		592461	593136	-1	158
+trach_591	ribosomal protein L22	rplV		593145	593481	-1	158
+trach_592	ribosomal protein S19	rpsS		593499	593766	-1	158
+trach_593	ribosomal protein L2	rplB		593771	594626	-1	158
+trach_594	50S ribosomal protein L23	rplW		594649	594985	-1	92,141
+trach_595	50S ribosomal protein L4	rplD		595000	595669	-1	158
+trach_596	50S ribosomal protein L3	rplC		595677	596343	-1	158
+trach_597	hypothetical protein			596671	596809	-1	856
+trach_598	conserved hypothetical protein			596777	597674	-1	156
+trach_599	methionyl-tRNA formyltransferase	fmt	2.1.2.9	597839	598790	-1	137
+trach_600	acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase	lpxA	2.3.1.129	598779	599622	-1	90
+trach_601	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ	fabZ	4.2.1.-	599633	600095	-1	176
+trach_602	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase	lpxC	3.5.1.-	600091	600952	-1	90
+trach_603	apolipoprotein N-acyltransferase	lnt	2.3.1.-	601052	602633	-1	140
+trach_604	thioesterase superfamily protein			602744	603227	-1	703
+trach_605	exonuclease, DNA polymerase III, epsilon subunit family domain protein		2.7.7.7	603362	604115	-1	131
+trach_606	conserved hypothetical protein			604118	604508	-1	156
+trach_607	conserved hypothetical protein			604570	605287	-1	156
+trach_609	thioredoxin	trxA		606008	606317	1	112
+trach_610	spoU rRNA Methylase family protein			606366	606822	-1	168
+trach_611	peptidyl-prolyl cis-trans isomerase Mip	mip	5.2.1.8	606837	607569	-1	92,703
+trach_612	aspartate--tRNA ligase	aspS	6.1.1.-	607706	609455	-1	137
+trach_613	histidine--tRNA ligase	hisS	6.1.1.21	609435	610722	-1	137
+trach_614	hypothetical protein			610709	610970	1	856
+trach_615	regulatory protein uhpC	uhpC		611157	612528	1	92,141
+trach_616	DNA polymerase III, alpha subunit	dnaE	2.7.7.7	612541	616255	1	132
+trach_617	putative predicted OMP			616483	617353	-1	185
+trach_618	tetratricopeptide repeat family protein			617504	618461	1	157
+trach_619	lipopolysaccharide-assembly family protein			618485	619070	1	90
+trach_620	histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein			619056	619497	1	703
+trach_621	conserved hypothetical protein			619503	619929	-1	156
+trach_622	D-alanyl-D-alanine carboxypeptidase family protein			620036	621068	1	89
+trach_623	conserved hypothetical protein			621368	621506	-1	156
+trach_624	hypothetical protein			621278	621398	1	856
+trach_625	conserved hypothetical protein			621482	621890	1	156
+trach_626	RNA Methyltransferase domain protein	fmu	2.1.1.-	621886	622111	1	92,703
+trach_627	ribosomal RNA adenine dimethylase family protein			622119	622992	1	94,168
+trach_628	branched-chain amino acid transport system II carrier protein	brnQ		623141	624377	1	142
+trach_629	helicase conserved C-terminal domain protein			624551	628151	1	703
+trach_630	conserved hypothetical protein			628328	628808	1	156
+trach_631	hypothetical protein			628890	629004	1	856
+trach_632	dihydrolipoyl dehydrogenase	lpdA	1.8.1.4	629016	630414	1	703
+trach_633	lipoyl synthase	lipA	2.8.1.8	630410	631346	1	80
+trach_634	type III secretion apparatus lipoprotein, YscJ/HrcJ family			631449	632430	1	97,187
+trach_635	conserved hypothetical protein			632430	633267	1	156
+trach_636	conserved hypothetical protein			633351	633546	1	156
+trach_637	type III secretion apparatus protein, HrpE/YscL family			633542	634214	1	97,187
+trach_638	type III secretion apparatus protein, YscR/HrcR family	epaP		634226	635147	1	97,187
+trach_639	type III secretion , HrpO family protein			635158	635443	1	97,187
+trach_640	bacterial export s, 1 family protein			635449	636319	1	97
+trach_641	conserved hypothetical protein			636396	636840	-1	156
+trach_642	conserved hypothetical protein			636930	637878	-1	156
+trach_643	conserved hypothetical protein			637928	638453	-1	156
+trach_644	putative membrane protein			638437	638866	-1	88
+trach_645	putative outer membrane protein CT_569			638876	639251	-1	
+trach_646	type II secretion system (T2SS), F family protein			639267	640443	-1	97
+trach_647	type II/IV secretion system family protein			640454	641936	-1	185
+trach_648	bacterial type II and III secretion system family protein			641943	644226	-1	97
+trach_649	conserved hypothetical protein			644226	645408	-1	156
+trach_650	metallopeptidase M24 family protein			645583	646654	-1	138
+trach_651	DNA mismatch repair MutL family protein	mutL		646664	648395	-1	132
+trach_652	type III secretion low calcium response chaperone LcrH/SycD			648689	649388	1	95
+trach_653	conserved hypothetical protein			649404	649764	1	156
+trach_654	secretion system effector C (SseC) like family protein			649800	651264	1	185
+trach_655	secretion system effector C (SseC) like family protein			651294	652614	1	185
+trach_656	eamA-like transporter family protein			652691	653537	-1	141
+trach_657	threonine--tRNA ligase	thrS	6.1.1.3	653979	655887	1	137
+trach_658	cobQ/CobB/MinD/ParA nucleotide binding domain protein			656337	657105	1	157
+trach_659	conserved hypothetical protein			657109	657901	1	156
+trach_660	conserved hypothetical protein			657866	658418	1	156
+trach_661	tryptophan--tRNA ligase	trpS	6.1.1.2	658616	659657	1	137
+trach_662	excinuclease ABC subunit B	uvrB	3.1.25.-	659681	661688	1	132
+trach_663	phosphopyruvate hydratase	eno	4.2.1.11	661849	663124	1	116
+trach_664	HAMP domain protein			663250	665203	1	129
+trach_665	stage II sporulation E family protein			665327	667136	1	185
+trach_666	conserved hypothetical protein			667150	670015	-1	92,703
+trach_667	succinate dehydrogenase and fumarate reductase iron-sulfur family protein			670111	670810	-1	108,110,120
+trach_668	succinate dehydrogenase/fumarate reductase, flavoprotein subunit	sdhA	1.3.99.1	671046	672768	-1	120
+trach_669	putative succinate dehydrogenase			672764	673283	-1	703
+trach_670	succinate dehydrogenase domain protein		1.3.99.1	673359	673551	-1	703
+trach_671	hydrolase, TatD family protein			673772	674564	-1	703
+trach_672	thioredoxin family protein			674648	676727	-1	112
+trach_673	motA/TolQ/ExbB proton channel family protein			676879	677578	1	145
+trach_674	biopolymer transport ExbD/TolR family protein			677574	677982	1	145
+trach_675	putative histone H1-I			677984	678692	1	185
+trach_676	WD40-like Beta Propeller Repeat family protein			678691	679987	1	185
+trach_677	ompA family protein			679983	680550	1	185
+trach_678	lysM domain protein			680539	681142	1	90
+trach_679	peroxiredoxin-2	Prdx2	1.11.1.15	681601	682189	-1	92,149,703
+trach_680	conserved hypothetical protein			681212	681605	1	156
+trach_682	TCP-1/cpn60 chaperonin family protein			682397	683999	-1	95
+trach_683	conserved hypothetical protein			684075	685305	-1	156
+trach_684	hypothetical protein			685411	685537	1	856
+trach_685	conserved hypothetical protein			686105	686333	-1	156
+trach_686	ham1 family protein			685502	686132	1	157
+trach_687	uracil-DNA glycosylase	ung	3.2.2.27	686329	687019	-1	132
+trach_688	ATP-dependent DNA helicase pcrA	pcrA	3.6.4.12	687099	689004	1	92,141,703
+trach_689	RNA polymerase sigma-54 factor	rpoN		689007	690318	1	165
+trach_690	pqqC-like protein			690425	691106	-1	141
+trach_691	F420-0:Gamma-glutamyl ligase family protein			691117	691789	-1	185
+trach_692	dihydrofolate reductase family protein			691820	692300	-1	78
+trach_693	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	folK	2.7.6.3	692296	693649	-1	78
+trach_694	dihydroneopterin aldolase	folB	4.1.2.25	693645	694014	-1	78
+trach_695	RNA polymerase sigma factor RpoD	rpoD		694038	695748	-1	165
+trach_696	conserved hypothetical protein			695902	697018	-1	156
+trach_697	ribosomal protein S20	rpsT		697640	697937	1	158
+trach_698	conserved hypothetical protein			698169	698970	1	156
+trach_699	effector from type III secretion system family protein			699025	701659	-1	185
+trach_700	effector from type III secretion system family protein			701773	704290	1	185
+trach_701	effector from type III secretion system family protein			704353	706852	-1	185
+trach_702	conserved hypothetical protein			707079	709023	-1	141
+trach_703	putative exported protein			709130	710429	-1	141
+trach_704	mviN-like family protein			710671	712282	-1	185
+trach_705	apurinic endonuclease family protein			712454	713321	1	132
+trach_706	ribosomal protein S4	rpsD		713417	714047	-1	158
+trach_707	hypothetical protein			714245	714371	-1	856
+trach_708	rhodanese-like domain protein			714430	715414	1	157
+trach_709	polyprenyl synthetase family protein			715485	716361	-1	102
+trach_710	bacterial transferase hexapeptide family protein			716416	717034	-1	703
+trach_711	transcriptional regulatory , C terminal family protein			717086	717770	-1	261
+trach_712	conserved hypothetical protein			717948	718203	1	156
+trach_714	thymidylate synthase complementing family protein			718383	719973	-1	123
+trach_715	conserved hypothetical protein			720021	720135	-1	156
+trach_716	delta-aminolevulinic acid dehydratase	hemB	4.2.1.24	720453	721287	1	92,141,703
+trach_717	ubiquinone oxidoreductase, Na(+)-translocating, A subunit	nqrA	1.6.5.-	721312	722710	-1	145
+trach_718	conserved hypothetical protein			722731	723166	-1	156
+trach_719	transcription elongation factor, GreA/GreB, C-term family protein			723279	725427	1	165
+trach_721	aminotransferase class I and II family protein			725614	726817	1	703
+trach_722	rod shape-determining MreC family protein			726863	727559	1	89
+trach_723	rod shape-determining MreC family protein			727591	727801	1	89
+trach_724	exodeoxyribonuclease V, beta subunit	recB	3.1.11.5	727816	730897	-1	132
+trach_725	exodeoxyribonuclease V, gamma subunit			730898	733724	-1	166
+trach_726	major Facilitator Superfamily protein			733925	735605	1	141
+trach_727	conserved hypothetical protein			735624	736428	-1	156
+trach_728	hypothetical protein			736436	736553	-1	856
+trach_729	hypothetical protein			736671	736821	-1	856
+trach_730	DNA topoisomerase I	topA	5.99.1.2	737334	739908	1	132
+trach_731	TIM-barrel , nifR3 family protein			739937	740942	-1	157
+trach_732	conserved hypothetical protein			741317	742697	1	156
+trach_733	putative exported protein			742696	743275	1	141
+trach_734	MORN repeat variant family protein			743265	744540	1	185
+trach_735	5-formyltetrahydrofolate cyclo-ligase		6.3.3.2	744542	745079	1	698
+trach_736	protein RecA	recA		745339	746398	1	132
+trach_737	hypothetical protein			746423	746579	-1	856
+trach_738	conserved hypothetical protein			746683	748510	1	156
+trach_739	exodeoxyribonuclease V, alpha subunit	recD	3.1.11.5	748506	749997	1	132
+trach_740	conserved hypothetical protein			750062	750242	1	156
+trach_741	ABC transporter family protein			750342	751062	-1	141
+trach_742	conserved hypothetical protein			751070	751559	-1	156
+trach_743	3-deoxy-8-phosphooctulonate synthase	kdsA	2.5.1.55	751555	752365	-1	90
+trach_745	conserved hypothetical protein			752649	752790	1	156
+trach_746	conserved hypothetical protein			752849	753143	1	156
+trach_747	conserved hypothetical protein			753220	753460	1	156
+trach_748	pseudouridine synthase, RluA family protein		5.4.99.-	753543	754548	1	168
+trach_749	KH domain protein			754646	754883	1	157
+trach_750	DNA gyrase/topoisomerase IV, subunit A family protein			755021	756494	-1	132
+trach_751	toprim domain protein			756508	758326	-1	130
+trach_752	glutamyl-tRNAGlu reductase, N-terminal domain protein			758705	759713	1	703
+trach_753	conserved hypothetical protein			760184	760331	-1	156
+trach_754	tir chaperone family protein			760424	760826	1	95,97,187
+trach_755	type III secretion apparatus protein, YscD/HrpQ family			760829	763319	1	97,187
+trach_756	conserved hypothetical protein			763362	763614	1	156
+trach_757	conserved hypothetical protein			763640	763892	1	156
+trach_758	bacterial type III secretion family protein			763910	764360	1	185
+trach_759	conserved hypothetical protein			764379	765051	1	156
+trach_760	type III secretion apparatus H+-transporting two-sector ATPase		3.6.3.14	765148	766381	1	97,187
+trach_761	conserved hypothetical protein			766403	766910	1	156
+trach_762	conserved hypothetical protein			766913	767765	1	156
+trach_763	type III secretion apparatus protein, YscQ/HrcQ family	epaO		767774	768896	1	97,187
+trach_764	lipopolysaccharide kinase family protein			769108	770503	1	90
+trach_765	bacterial type II and III secretion system family protein			770499	773265	1	97
+trach_767	ATP:guanido phosphotransferase, C-terminal catalytic domain protein			773577	774648	-1	703
+trach_768	uvrB/uvrC motif family protein			774637	775159	-1	157
+trach_771	ribosome recycling factor	frr		775529	776069	-1	169
+trach_772	UMP kinase	pyrH	2.7.4.22	776065	776803	-1	124
+trach_773	translation elongation factor Ts	tsf		776815	777664	-1	169
+trach_774	ribosomal protein S2	rpsB		777660	778509	-1	158
+trach_776	major outer membrane porin	ompA		778878	780060	-1	141
+trach_777	hypothetical protein			780335	780455	1	856
+trach_778	penicillin binding transpeptidase domain protein			780781	783910	1	89
+trach_779	conserved hypothetical protein			784972	785098	-1	156
+trach_780	tetratricopeptide repeat family protein			783973	784981	1	157
+trach_781	feS assembly protein SufB	sufB		785323	786775	1	76
+trach_782	feS assembly ATPase SufC	sufC		786777	787545	1	76
+trach_783	conserved hypothetical protein			787548	788736	1	156
+trach_784	cysteine desulfurase, SufS family protein	sufS		788728	789934	1	76
+trach_785	ABC transporter family protein			790906	791737	-1	141
+trach_786	parB/RepB/Spo0J family partition domain protein			790069	790915	1	157
+trach_787	oligopeptide/dipeptide ABC transporter, ATP-binding , C-terminal domain protein			791729	792695	-1	142
+trach_788	conserved hypothetical protein			792855	793530	1	156
+trach_789	phosphate transporter family protein			793532	794813	1	143
+trach_790	conserved hypothetical protein			796148	796262	-1	156
+trach_791	phosphoglycerate kinase	pgk	2.7.2.3	794940	796152	1	92,141,703
+trach_792	conserved hypothetical protein			796411	797383	1	156
+trach_793	conserved hypothetical protein			797433	798630	1	156
+trach_794	hhH-GPD superbase excision DNA repair family protein			799890	800526	-1	132
+trach_795	conserved hypothetical protein			798715	799894	1	156
+trach_796	tRNA modification GTPase TrmE	trmE	3.6.-.-	800532	801867	-1	168
+trach_797	phosphatidylserine decarboxylase	psd	4.1.1.65	802133	803039	1	176
+trach_798	TPR repeat family protein			803130	804429	1	185
+trach_799	hypothetical protein			804493	804613	1	856
+trach_800	preprotein translocase, SecA subunit	secA		804687	807597	1	97
+trach_801	conserved hypothetical protein			807690	808218	-1	156
+trach_802	ribosome-associated GTPase EngA	engA		808294	809767	-1	185
+trach_803	poly A polymerase head domain protein			809882	811115	-1	166
+trach_804	ATP-dependent Clp protease, ATP-binding subunit ClpX	clpX		811129	812389	-1	95,138
+trach_805	clp protease family protein			812398	812959	-1	138
+trach_806	trigger factor	tig	5.2.1.8	813176	814505	-1	95
+trach_808	hypothetical protein			814626	814743	-1	856
+trach_809	DEAD/DEAH box helicase family protein			814861	818353	1	703
+trach_810	cell shape determining , MreB/Mrl family protein			818393	819458	1	89
+trach_811	phosphoenolpyruvate carboxykinase family protein			819454	821254	1	116
+trach_812	effector from type III secretion system family protein			821365	823669	1	185
+trach_813	effector from type III secretion system family protein			823695	824868	1	185
+trach_814	outer membrane protein B	ompB		824893	825916	-1	141
+trach_815	NAD-dependent glycerol-3-phosphate dehydrogenase family protein			826048	827053	-1	184
+trach_816	UTP--glucose-1-phosphate uridylyltransferase family protein			827049	828417	-1	703
+trach_817	conserved hypothetical protein			828428	828794	-1	156
+trach_818	ATP synthase alpha/beta family, nucleotide-binding domain protein			828786	830091	-1	703
+trach_819	conserved hypothetical protein			830164	830677	-1	156
+trach_820	secretory of YscJ/FliF family protein			830693	831692	-1	185
+trach_821	nifU-like N terminal domain protein			831970	832753	-1	157
+trach_822	aminotransferase class-V family protein			832749	833904	-1	703
+trach_823	phosphoglycerate mutase	gpm1	5.4.2.1	833858	834539	-1	92,703
+trach_824	pseudouridine synthase family protein		5.4.99.-	834835	835561	1	168
+trach_825	conserved hypothetical protein			835679	836204	1	156
+trach_826	biotin--[acetyl-CoA-carboxylase] ligase		6.3.4.15	836230	836785	1	140
+trach_827	cell cycle family protein			836791	837931	-1	93,705
+trach_828	cadmium-translocating P-type ATPase	cadA	3.6.3.3	838022	840002	-1	145
+trach_829	VIT family protein			840025	840772	-1	185
+trach_830	serine--tRNA ligase	serS	6.1.1.11	840808	842095	-1	137
+trach_831	riboflavin biosynthesis protein RibD	ribD	3.5.4.26	842136	843264	1	85
+trach_832	GTP cyclohydrolase II	ribA	3.5.4.25	843373	844648	1	85
+trach_833	6,7-dimethyl-8-ribityllumazine synthase	ribH	6.3.3.-	844616	845090	1	85
+trach_834	conserved hypothetical protein			845140	846487	-1	156
+trach_835	putative lipoprotein CT_734			846871	847537	1	
+trach_836	amino acid carrier family protein	agcS		847641	849009	1	141
+trach_837	conserved hypothetical protein			849066	849519	1	156
+trach_838	SET domain protein			849527	850091	-1	157
+trach_839	metallo-beta-lactamase superfamily protein			850183	850972	-1	157
+trach_840	ftsK/SpoIIIE family protein			850975	853375	-1	93
+trach_842	conserved hypothetical protein			853716	853929	-1	156
+trach_844	conserved hypothetical protein			857820	858450	-1	156
+trach_845	conserved hypothetical protein			858456	858612	1	156
+trach_848	ubiquinone oxidoreductase, Na(+)-translocating, F subunit	nqrF	1.6.5.-	859614	860910	-1	145
+trach_849	preprotein translocase, YajC subunit	yajC		861052	861397	-1	97
+trach_850	23S rRNA (uracil-5-)-methyltransferase RumA	rumA	2.1.1.-	861501	862692	-1	168
+trach_851	hypothetical protein			862742	863306	1	856
+trach_852	protoporphyrinogen oxidase	hemG	1.3.3.4	866112	867387	-1	79
+trach_853	putative exported protein			863652	866118	1	141
+trach_854	oxygen-independent coproporphyrinogen III oxidase	hemN	1.3.99.22	867383	868757	-1	79
+trach_855	uroporphyrinogen decarboxylase	hemE	4.1.1.37	868729	869734	-1	79
+trach_856	transcription-repair coupling factor	mfd	3.6.1.-	869752	872992	-1	132
+trach_857	alanine--tRNA ligase	alaS	6.1.1.7	872967	875595	-1	137
+trach_858	conserved hypothetical protein			875744	875975	-1	156
+trach_860	conserved hypothetical protein			879866	880496	-1	156
+trach_861	conserved hypothetical protein			880502	880658	1	156
+trach_864	phosphorylase superfamily protein			883418	884288	-1	185
+trach_865	transketolase	tkt	2.2.1.1	881421	883422	1	117
+trach_866	translation elongation factor P	efp		884507	885080	1	169
+trach_867	conserved hypothetical protein			885095	885320	-1	156
+trach_868	calcineurin-like phosphoesterase family protein			885366	886239	-1	703
+trach_869	TCP-1/cpn60 chaperonin family protein			886319	887858	-1	95
+trach_871	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase family protein	murF	6.3.2.10	888305	889658	1	89
+trach_872	phospho-N-acetylmuramoyl-pentapeptide-transferase	mraY	2.7.8.13	889803	890814	1	89
+trach_873	UDP-N-acetylmuramoylalanine--D-glutamate ligase	murD	6.3.2.9	890825	892076	1	89
+trach_874	lysM domain protein			892072	892810	1	90
+trach_875	cell division protein FtsW	ftsW		892825	893983	1	89,93
+trach_876	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	murG	2.4.1.227	894083	894950	1	89
+trach_877	UDP-N-acetylmuramate--alanine ligase	murC	6.3.2.8	894957	897366	1	89
+trach_878	KH domain protein			897402	897822	-1	157
+trach_879	putative membrane protein			897979	898786	-1	88
+trach_880	anti-anti-sigma factor family protein			898939	899272	1	263
+trach_881	tRNA dimethylallyltransferase	miaA	2.5.1.75	899275	900295	1	168
+trach_882	menaquinone biosynthesis protein, SCO4550 family			900299	901352	-1	185
+trach_883	putative myosin heavy chain			901441	903130	1	185
+trach_884	oligomerisation domain protein			903583	903943	1	157
+trach_885	beta-ketoacyl-acyl-carrier-protein synthase II	fabF	2.3.1.179	903953	905210	1	176
+trach_886	NUDIX domain protein			905206	905659	1	703
+trach_887	inorganic pyrophosphatase family protein			905739	906369	-1	103
+trach_888	inositol monophosphatase family protein			907622	908651	-1	703
+trach_889	leucine dehydrogenase	ldh	1.4.1.9	906616	907657	1	92,141,703
+trach_890	acyltransferase family protein			908949	909711	1	703
+trach_891	AMP-binding enzyme family protein			909718	911332	1	185
+trach_892	primosomal protein N'	priA	3.6.1.-	912426	914688	-1	132
+trach_893	conserved hypothetical protein			914642	915332	-1	156
+trach_894	thioredoxin-like domain protein			915487	915982	1	157
+trach_895	conserved hypothetical protein			916019	916133	1	156
+trach_896	cysteine--tRNA ligase	cysS	6.1.1.16	917790	919224	-1	137
+trach_897	lysine--tRNA ligase	lysS	6.1.1.6	916213	917794	1	137
+trach_898	conserved hypothetical protein			919538	920588	1	156
+trach_899	ribonuclease P protein component	rnpA	3.1.26.5	920665	920875	-1	166
+trach_900	ribosomal protein L34	rpmH		921040	921178	-1	158
+trach_901	hypothetical protein			921355	921487	1	856
+trach_902	ribosomal protein L36	rpmJ		921654	921792	1	158
+trach_903	alternate 30S ribosomal protein S14	rpsN2		921815	922121	1	92,141
+trach_904	putative exported protein			922154	922655	-1	141
+trach_905	putative membrane protein			922776	922962	-1	88
+trach_906	asp23 family protein			923306	923801	1	185
+trach_907	excinuclease ABC subunit C	uvrC	3.1.25.-	923845	925642	-1	132
+trach_908	DNA mismatch repair protein MutS	mutS		925666	928129	-1	132
+trach_909	DNA primase	dnaG	2.7.7.-	928462	930250	1	132
+trach_910	putative exported protein			930343	930622	1	141
+trach_911	putative exported protein			930748	931240	1	141
+trach_912	glycine--tRNA ligase, beta subunit	glyS	6.1.1.14	931321	934333	-1	137
+trach_913	conserved hypothetical protein			934556	934706	-1	156
+trach_914	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	pgsA	2.7.8.5	934799	935402	1	176
+trach_915	glycogen/starch synthase, ADP-glucose type family protein	glgA	2.4.1.21	935408	936833	-1	105
+trach_916	hypothetical protein			936926	937061	-1	856
+trach_918	ribosomal protein L25, Ctc-form			937409	937967	1	158
+trach_919	peptidyl-tRNA hydrolase	pth	3.1.1.29	937974	938514	1	136
+trach_920	ribosomal protein S6	rpsF		938651	938990	1	158
+trach_921	ribosomal protein S18	rpsR		939006	939252	1	158
+trach_922	ribosomal protein L9	rplI		939272	939776	1	158
+trach_923	putative 7 kDa reticulate body protein			940675	940879	-1	185
+trach_924	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	ispE	2.7.1.148	939839	940706	1	76
+trach_925	conserved hypothetical protein			941008	942361	-1	156
+trach_926	peptidase M16 inactive domain protein			942539	945410	-1	140
+trach_927	acyltransferase family protein			945466	946462	-1	703
+trach_928	ribonuclease, Rne/Rng family domain protein		3.1.4.-	946474	948013	-1	134
+trach_929	conserved hypothetical protein			948459	948888	1	156
+trach_930	fatty acid synthesis family protein			949349	950315	1	176
+trach_931	autotransporter beta-domain protein			950535	955131	1	97,187
+trach_932	conserved hypothetical protein			955246	955399	-1	156
+trach_933	incA family protein			955442	956168	1	187
+trach_934	conserved hypothetical protein			956251	956551	-1	156
+trach_935	conserved hypothetical protein			956571	956934	-1	156
+trach_936	phosphoglucosamine mutase	glmM	5.4.2.10	957179	958556	1	89,100
+trach_937	glutamine-fructose-6-phosphate transaminase	glmS	2.6.1.16	958566	960387	1	89,100
+trach_938	aromatic amino acid transport family protein			960489	961686	1	142
+trach_939	conserved hypothetical protein			961758	961884	1	156
+trach_940	aromatic amino acid transport family protein			961873	963061	1	142
+trach_941	inhibitor of apoptosis-promoting Bax1 family protein			963102	963819	1	185
+trach_942	signal recognition particle-docking protein FtsY	ftsY		963916	964771	-1	97
+trach_943	succinyl-CoA ligase [ADP-forming] subunit beta	sucC	6.2.1.5	964840	966001	1	92,141,703
+trach_944	succinyl-CoA ligase [GDP-forming] subunit alpha, mitochondrial	scsA	6.2.1.4	966015	966891	1	92,141,703
+trach_945	peptidase Do family protein		3.4.21.-	967032	968523	1	95,138
+trach_946	peptidase M16 inactive domain protein			968722	971647	1	140
+trach_947	rmuC family protein			971660	972944	-1	157
+trach_948	CDP-alcohol phosphatidyltransferase family protein			972947	973739	-1	703
+trach_949	ribonucleoside-diphosphate reductase, alpha subunit		1.17.4.1	974374	977518	1	123
+trach_950	ribonucleoside-diphosphate reductase subunit beta	nrdB	1.17.4.1	977555	978596	1	92,141,703
+trach_952	methyltransferase family protein			978855	979530	1	703
+trach_953	UDP-N-acetylenolpyruvoylglucosamine reductase	murB	1.1.1.158	980226	981102	-1	89
+trach_954	rRNA methylase family protein			979648	980230	1	703
+trach_955	transcription antitermination factor NusB	nusB		981234	981741	-1	165
+trach_956	conserved hypothetical protein			981100	981238	1	156
+trach_957	translation initiation factor IF-3	infC		982255	982699	1	169
+trach_958	ribosomal protein L35	rpmI		982709	982904	1	158
+trach_959	ribosomal protein L20	rplT		982922	983294	1	158
+trach_960	phenylalanine--tRNA ligase, alpha subunit	pheS	6.1.1.20	983300	984329	1	137
+trach_962	hypothetical protein			984335	984452	1	856
+trach_963	putative permease YjgP/YjgQ family protein			986611	987712	-1	141
+trach_964	putative calcium binding EF-hand protein			984638	986615	1	185
+trach_965	putative permease YjgP/YjgQ family protein			987714	988779	-1	141
+trach_966	tRNA(Ile)-lysidine synthetase	tilS	6.3.4.-	988876	989842	1	168
+trach_967	ATP-dependent metallopeptidase HflB family protein	hflB	3.4.24.-	990002	992744	1	93,138
+trach_968	polyribonucleotide nucleotidyltransferase	pnp	2.7.7.8	992958	995046	-1	703
+trach_969	ribosomal protein S15	rpsO		995074	995344	-1	158
+trach_970	cytidine and deoxycytidylate deaminase zinc-binding region family protein			995569	996061	1	703
+trach_971	conserved hypothetical protein			996282	996987	-1	156
+trach_972	conserved hypothetical protein			996092	996311	1	156
+trach_973	conserved hypothetical protein			997121	997538	-1	156
+trach_974	conserved hypothetical protein			997655	998144	-1	156
+trach_975	conserved hypothetical protein			997515	997659	1	156
+trach_976	conserved hypothetical protein			998189	998669	-1	156
+trach_977	conserved hypothetical protein			998987	999176	1	156
+trach_978	methionine aminopeptidase, type I	map	3.4.11.18	1000368	1001244	-1	140
+trach_979	putative integral membrane protein			999194	1000412	1	88
+trach_980	marC integral membrane family protein			1001301	1001916	-1	88
+trach_981	marC integral membrane family protein			1001933	1002533	-1	88
+trach_982	binding--dependent transport system inner membrane component family protein			1002727	1004497	-1	141
+trach_983	fumarate hydratase, class II	fumC	4.2.1.2	1004549	1005941	1	120
+trach_984	sulfate permease family protein	YCHM		1006021	1007722	-1	141
+trach_985	na+/H+ antiporter, NhaD family protein			1008592	1009747	1	145
+trach_986	hypothetical protein			1009787	1009910	-1	856
+trach_987	peptidase S41 family protein			1009860	1011666	1	138
+trach_988	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	ispH	1.17.1.2	1011760	1012684	1	76
+trach_989	conserved hypothetical protein			1012735	1014217	-1	156
+trach_990	putative membrane protein			1014228	1015749	-1	88
+trach_991	type III secretion low calcium response chaperone LcrH/SycD			1015775	1016294	-1	95
+trach_992	conserved hypothetical protein			1016293	1017742	-1	156
+trach_994	phage integrase family protein			1018602	1019505	-1	132,152
+trach_995	conserved hypothetical protein			1018300	1018606	1	156
+trach_996	hypothetical protein			1019615	1019771	-1	856
+trach_997	conserved hypothetical protein			1019753	1020743	1	156
+trach_998	1,4-alpha-glucan branching enzyme	glgB	2.4.1.18	1020757	1022974	1	105
+trach_999	ulp1 protease family, C-terminal catalytic domain protein			1022984	1023485	-1	138
+trach_1000	deubiquitinase and deneddylase Dub1	cdu1	3.4.22.-	1024214	1025471	-1	92,187,189,703
+trach_1001	autotransporter beta-domain protein			1025647	1028542	-1	97,187
+trach_1002	putative outer membrane protein pmpF			1028544	1031649	-1	
+trach_1003	autotransporter beta-domain protein			1031813	1034855	1	97,187
+trach_1004	autotransporter beta-domain protein			1034885	1037936	1	97,187
+trach_1005	conserved hypothetical protein			1038350	1038653	1	156
+trach_1006	conserved hypothetical protein			1038700	1038835	1	156
+trach_1007	autotransporter beta-domain protein			1039009	1041646	-1	97,187
+trach_1008	putative polymorphic outer membrane protein			1041631	1041775	1	88
+trach_1009	conserved hypothetical protein			1041919	1042522	1	156
