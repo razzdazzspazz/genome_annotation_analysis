@@ -40,7 +40,7 @@
 <p>This repository contains all the files necessary to parse genome annotation data from text files, load those data into a MySQL database, extract specific data from that database, and analyze those data.</p>
 
 <ul>
-<li><p><strong>ecoli.annotation **and **trach.annotation</strong> are the original files to be analyzed containing gene annotation data derived from the sequence analysis of each respective bacterial genome.</p></li>
+<li><p><strong>ecoli.annotation</strong> and <strong>trach.annotation</strong> are the original files to be analyzed containing gene annotation data derived from the sequence analysis of each respective bacterial genome.</p></li>
 <li><p><strong>gpls718project.sql</strong> is used to create and instantiate a database that can be used to store the data contained in the annotation files.</p></li>
 <li><p><strong>db_loader.pl</strong> is used to parse the data in the annotation files and load them into the database previously created.</p></li>
 <li><p><strong>step2.pl</strong> is used to extract a specific subset of data from the database using MySQL queries and organize them into an output file with tab-separated values.</p></li>
@@ -54,6 +54,16 @@
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
-    
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-46458457-2");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
   </body>
 </html>
